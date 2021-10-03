@@ -1,0 +1,26 @@
+.header {
+  text-align: center;
+}
+
+.gallery {
+align-items: center;
+}
+
+.galleryImage {
+  width: 30%;
+  height: 300px;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  back-fit: cover;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
