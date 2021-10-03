@@ -26,14 +26,14 @@ margin-left: 10%;
   text-align: center;
 }
 
-ul li {
+ul.bottomDiv li.nav {
   margin: 0;
   padding: 0;
   list-style: none;
   display: inline;
 }
 
-li:not(:first-child):before {
+li.nav:not(:first-child):before {
     content: " | ";
     color: grey;
     padding: 20px
